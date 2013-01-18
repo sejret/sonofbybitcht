@@ -1,0 +1,110 @@
+AST;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+225001;Head of State;Ingvar Bergström;1933;1964;1999;SC;Stern Imperialist;High;M56001;X
+225002;Head of Government;Alvar Ahlgren;1933;1964;1999;SC;Flamboyant Tough Guy;High;M56002;X
+225003;Foreign Minister;Hasse Lindberg;1933;1964;1999;SC;Great Compromiser;High;M56003;X
+225004;Minister of Armament;Kennet Olofsson;1933;1964;1999;SC;Resource Industrialist;Medium;M56004;X
+225005;Minister of Security;Valdemar Olsson;1933;1964;1999;SC;Silent Lawyer;Medium;M56005;X
+225006;Head of Military Intelligence;Valentin Einarsson;1933;1964;1999;SC;Technical Specialist;High;M56006;X
+225007;Chief of Staff;Alvar Ahlgren;1933;1964;1999;SC;School of Manoeuvre;Very High;M56002;X
+225008;Chief of Army;Acke Lindquist;1933;1964;1999;SC;Static Defence Doctrine;Medium;M56008;X
+225009;Chief of Navy;Leif Lindgren;1933;1964;1999;SC;Open Seas Doctrine;Medium;M56009;X
+225010;Chief of Air Force;Robert Klasson;1933;1964;1999;SC;Air Superiority Doctrine;Medium;M56010;X
+225011;Head of State;Peder Engman;1933;1964;1999;SC;Stern Imperialist;High;M56031;X
+225012;Head of State;Verner Jarl;1945;1964;1999;SC;Autocratic Charmer;High;M56032;X
+225013;Head of State;Jonatan Kåre;1933;1964;1999;PA;Benevolent Gentleman;High;M56011;X
+225014;Head of State;Leo Alvar;1933;1964;1999;LE;Barking Buffoon;High;M56021;X
+225015;Head of Government;Peder Nylund;1937;1964;1999;SC;Backroom Backstabber;High;M56037;X
+225016;Head of Government;Alfred Valdemar;1933;1964;1999;SD;Silent Workhorse;High;M56038;X
+225017;Head of Government;Egil Hall;1945;1964;1999;SD;Political Protege;High;M56039;X
+225018;Head of Government;Maximilian Mikaelsson;1933;1964;1999;PA;Happy Amateur;High;M56012;X
+225019;Head of Government;Leo Alvar;1933;1964;1999;ST;Ambitious Union Boss;High;M56021;X
+225020;Foreign Minister;Sigfrid Lund;1933;1964;1999;SC;Iron Fisted Brute;High;M56042;X
+225021;Foreign Minister;Jakob Alfredsson;1937;1964;1999;SC;Great Compromiser;Medium;M56043;X
+225022;Foreign Minister;Ragnvald Eriksson;1937;1964;1999;SC;Biased Intellectual;Very High;M56044;X
+225023;Foreign Minister;Michael Eriksson;1938;1964;1999;SC;Apologetic Clerk;Very High;M56037;X
+225024;Foreign Minister;Lennie Bergman;1939;1964;1999;SC;Ideological Crusader;High;M56046;X
+225025;Foreign Minister;Valdemar Olsson;1941;1964;1999;SC;Biased Intellectual;Medium;M56005;X
+225026;Foreign Minister;Halvar Leonardsson;1944;1964;1999;SC;Apologetic Clerk;Medium;M56048;X
+225027;Foreign Minister;Fredrik Göransson;1933;1964;1999;SD;General Staffer;Medium;M56049;X
+225028;Foreign Minister;Truls Stigsson;1941;1964;1999;SD;Biased Intellectual;High;M56050;X
+225029;Foreign Minister;Thorbjörn Markusson;1933;1964;1999;PA;General Staffer;Low;M56013;X
+225030;Foreign Minister;Francesco Piscitelli;1940;1964;1999;PA;The Cloak N Dagger Schemer;High;M56052;X
+225031;Foreign Minister;Markus Persson III;1933;1964;1999;ST;Ideological Crusader;High;M56023;X
+225032;Foreign Minister;Alf Normansson;1942;1964;1999;LE;Biased Intellectual;High;M56054;X
+225033;Foreign Minister;Elias Örjan;1944;1964;1999;ST;Great Compromiser;High;M56055;X
+225034;Minister of Armament;Edward Davis Millen;1933;1964;1999;ML;Resource Industrialist;High;M56056;X
+225035;Minister of Armament;Fritjof Abrahamsson;1937;1964;1999;SC;Administrative Genius;High;M56046;X
+225036;Minister of Armament;Ulrik Kennet;1940;1964;1999;SC;Administrative Genius;Medium;M56058;X
+225037;Minister of Armament;Oskar Kjellsson;1943;1964;1999;SC;Air to Sea Proponent;High;M56059;X
+225038;Minister of Armament;Sigfrid Lund;1950;1964;1999;SC;Infantry Proponent;High;M56042;X
+225039;Minister of Armament;Osvald Eriksson;1937;1964;1999;SD;Military Entrepreneur;Medium;M56061;X
+225040;Minister of Armament;Kasper Bengtsson;1938;1964;1999;SD;laissez-faire capitalist;High;M56062;X
+225041;Minister of Armament;Harald Lindström;1939;1964;1999;SD;Strategic Air Proponent;High;M56063;X
+225042;Minister of Armament;Thor Ericson;1941;1964;1999;SD;Battle Fleet Proponent;Medium;M56064;X
+225043;Minister of Armament;Thorsten Albinsson;1943;1964;1999;SD;Infantry Proponent;Medium;M56065;X
+225044;Minister of Armament;Rolf Mårdh;1943;1964;1999;SD;Tank Proponent;Medium;M56066;X
+225045;Minister of Armament;Ulrik Blomgren;1944;1964;1999;SD;Air to Ground Proponent;Medium;M56067;X
+225046;Minister of Armament;Olle Eriksson;1944;1964;1999;SD;Submarine Proponent;Medium;M56068;X
+225047;Minister of Armament;Acke Lindquist;1944;1964;1999;SD;Military Entrepreneur;Medium;M56008;X
+225048;Minister of Armament;Robert Klasson;1944;1964;1999;SD;Air Superiority Proponent;Medium;M56010;X
+225049;Minister of Armament;Francesco Fantin;1933;1964;1999;PA;Battle Fleet Proponent;Medium;M56014;X
+225050;Minister of Armament;Frank Carmagnolo;1939;1964;1999;PA;Strategic Air Proponent;Medium;M56072;X
+225051;Minister of Armament;Jonatan Kåre;1942;1964;1999;PA;Air Superiority Proponent;Very High;M56011;X
+225052;Minister of Armament;Mikael Patriksson;1944;1964;1999;PA;Administrative Genius;Very High;M56074;X
+225053;Minister of Armament;Stig Axel;1933;1964;1999;LE;Military Entrepreneur;Medium;M56024;X
+225054;Minister of Armament;Krister Hansson;1939;1964;1999;ST;Infantry Proponent;Medium;M56076;X
+225055;Minister of Armament;Jan Löfgren;1944;1964;1999;ST;Theoretical Scientist;High;M56077;X
+225056;Minister of Security;Sören Stenberg;1933;1964;1999;ML;Efficient Sociopath;High;M56078;X
+225057;Minister of Security;Valentin Einarsson;1937;1964;1999;SC;Crime Fighter;High;M56006;X
+225058;Minister of Security;Halvar Leonardsson;1937;1964;1999;SC;Man of the People;Medium;M56048;X
+225059;Minister of Security;Jakob Alfredsson;1939;1964;1999;SC;Prince of Terror;Medium;M56043;X
+225060;Minister of Security;Ulrik Kennet;1941;1964;1999;SC;Compassionate Gentleman;Medium;M56058;X
+225061;Minister of Security;Hasse Lindberg;1933;1964;1999;SC;Silent Lawyer;High;M56003;X
+225062;Minister of Security;Kennet Olofsson;1944;1964;1999;SC;Compassionate Gentleman;Medium;M56004;X
+225063;Minister of Security;Jens Knutsen;1937;1964;1999;SD;Silent Lawyer;Medium;M56085;X
+225064;Minister of Security;Truls Stigsson;1941;1964;1999;SD;Back Stabber;High;M56050;X
+225065;Minister of Security;Ingmar Klasson;1933;1964;1999;PA;Crime Fighter;Medium;M56015;X
+225066;Minister of Security;Maximilian Mikaelsson;1939;1964;1999;PA;Compassionate Gentleman;High;M56012;X
+225067;Minister of Security;Nels Bengtsson;1943;1964;1999;PA;Back Stabber;High;M56089;X
+225068;Minister of Security;Thomas Löfgren;1933;1964;1999;ST;Prince of Terror;High;M56025;X
+225069;Minister of Security;Guido Barracchi;1939;1964;1999;ST;Silent Lawyer;Very High;M56091;X
+225070;Minister of Security;Mattias Rundstrom;1942;1964;1999;ST;Man of the People;High;M56092;X
+225071;Head of Military Intelligence;Sigurd Kjellsson;1937;1964;1999;SC;Logistics Specialist;High;M56093;X
+225072;Head of Military Intelligence;Leif Lindgren;1933;1964;1999;SD;Naval Intelligence Specialist;Medium;M56009;X
+225073;Head of Military Intelligence;Egil Hall;1941;1964;1999;SD;Political Specialist;Very High;M56039;X
+225074;Head of Military Intelligence;Osvald Eriksson;1940;1964;1999;SC;Industrial Specialist;Medium;M56061;X
+225075;Head of Military Intelligence;Jens Knutsen;1942;1964;1999;SD;Dismal Enigma;Medium;M56085;X
+225076;Head of Military Intelligence;Truls Niequist;1944;1964;1999;SD;Technical Specialist;High;M56098;X
+225077;Head of Military Intelligence;Arvid Borg;1933;1964;1999;FA;Political Specialist;Medium;M56016;X
+225078;Head of Military Intelligence;Gabriel Karlsson;1933;1964;1999;ST;Dismal Enigma;Medium;M56026;X
+225079;Head of Military Intelligence;Bertil Mikaelsson;1941;1964;1999;LE;Logistics Specialist;High;M56101;X
+225080;Head of Military Intelligence;Jan Löfgren;1945;1964;1999;ST;Technical Specialist;High;M56077;X
+225081;Chief of Staff;Frans Andersson;1939;1964;1999;SC;School of Fire Support;Medium;M56103;X
+225082;Chief of Staff;Sigurd Kjellsson;1939;1964;1999;SC;School of Mass Combat;High;M56093;X
+225083;Chief of Staff;Philip Wang;1938;1964;1999;SC;School of Defence;Medium;M56105;X
+225084;Chief of Staff;Alfred Valdemar;1940;1964;1999;SD;School of Psychology;Very High;M56038;X
+225085;Chief of Staff;Esbjörn Tjäder;1944;1964;1999;SD;School of Manoeuvre;Medium;M56107;X
+225086;Chief of Staff;Bernhard Öman;1933;1964;1999;PA;School of Mass Combat;Medium;M56017;X
+225087;Chief of Staff;Ludde Robertsson;1933;1964;1999;ST;School of Mass Combat;Medium;M56027;X
+225088;Chief of Army;Sigurd Kjellsson;1937;1964;1999;SC;Decisive Battle Doctrine;High;M56093;X
+225089;Chief of Army;Göran Gustafsson;1940;1964;1999;SC;Guns and Butter Doctrine;Medium;M56066;X
+225090;Chief of Army;Thorsten Albinsson;1944;1964;1999;SC;Static Defence Doctrine;Medium;M56065;X
+225091;Chief of Army;Fredrik Göransson;1937;1964;1999;SD;Elastic Defence Doctrine;Medium;M56049;X
+225092;Chief of Army;Rolf Mårdh;1941;1964;1999;SD;Guns and Butter Doctrine;Medium;M56066;X
+225093;Chief of Army;Johannes Lager;1933;1964;1999;PA;Guns and Butter Doctrine;Medium;M56018;X
+225094;Chief of Army;Gottfrid Blomgren;1933;1964;1999;ST;Guns and Butter Doctrine;Medium;M56028;X
+225095;Chief of Navy;Göstav Bergström;1937;1964;1999;SC;Base Control Doctrine;Medium;M56117;X
+225096;Chief of Navy;Patrik Patriksson;1941;1964;1999;SC;Open Seas Doctrine;Medium;M56019;X
+225097;Chief of Navy;Olle Eriksson;1937;1964;1999;SD;Indirect Approach Doctrine;Medium;M56068;X
+225098;Chief of Navy;Maximilian Vång;1941;1964;1999;SD;Power Projection Doctrine;Medium;M56068;X
+225099;Chief of Navy;Thor Ericson;1944;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;M56064;X
+225100;Chief of Navy;Michael Olander;1933;1964;1999;ST;Decisive Naval Battle Doctrine;Medium;M56029;X
+225101;Chief of Air Force;Anders Björkman;1937;1964;1999;SC;Vertical Envelopment Doctrine;Medium;M56124;X
+225102;Chief of Air Force;Oskar Kjellsson;1944;1964;1999;SC;Naval Aviation Doctrine;High;M56059;X
+225103;Chief of Air Force;Ulrik Blomgren;1937;1964;1999;SD;Army Aviation Doctrine;Medium;M56067;X
+225104;Chief of Air Force;Esbjörn Victorsson;1941;1964;1999;SD;Air Superiority Doctrine;Medium;M56127;X
+225105;Chief of Air Force;Harald Lindström;1944;1964;1999;SD;Carpet Bombing Doctrine;High;M56063;X
+225106;Chief of Air Force;Ove Jensson;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M56020;X
+225107;Chief of Air Force;Halvar Grahn;1933;1964;1999;ST;Air Superiority Doctrine;Medium;M56030;X
+225108;Chief of Air Force;Leo Alvar;1941;1964;1999;ST;Army Aviation Doctrine;Very High;M56021;X

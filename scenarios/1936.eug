@@ -1,0 +1,127 @@
+name						= "1936_SCENARIO"
+panel						= "scenarios/data/scenario_1936.bmp"
+
+header =
+{
+	name					= "Grand Campaign"
+	startdate				= { year = 1934 }
+	ITA						= { }
+	SPA						= { }
+	JAP						= { }
+	SCA						= { }
+	RUS						= { }
+	GER						= { }
+	VIC						= { }
+	BRA						= { }
+	CHI						= { }
+
+	selectable =
+	{
+		ITA SPA JAP SCA TIB HUN ROM GRE SER BUL
+		SLV RUS GER PER AFG IRQ GEO SCH TUR ISR
+		SYR LBY CYP VIC HOL FRA ETH YEM U91 IRE
+		U73 U76 MOR CON BRA ARG PAR BOL COL VEN
+		U79 CUB HAI CAL TEX USA MEX CHC CHI CAN
+		MOZ PHI INO AST NZL
+	}
+ }
+
+globaldata =
+{
+	startdate				= { year = 1934 month = january day = 0 }
+	enddate					= { year = 1953 month = january day = 0 }
+	
+	allies =
+	{
+		id					= { type = 15000 id = 1 }
+		participant			= { BRA }
+	}
+
+	axis =
+	{
+		id					= { type = 15000 id = 2 }
+		participant			= { ITA RUS }
+	}
+
+	comintern =
+	{
+		id					= { type = 15000 id = 3 }
+		participant			= { JAP }
+	}
+
+	dormant_leaders =
+	{
+	}
+	
+	dormant_ministers =
+	{
+	}
+
+	dormant_teams =
+	{
+	}
+}
+
+include = "db\events.txt"
+
+include = "scenarios\1936\provinces\bases.inc"
+include = "scenarios\1936\provinces\depots.inc"
+include = "scenarios\1936\provinces\points.inc"
+
+include = "scenarios\1936\countries\abu dhabi.inc"
+include = "scenarios\1936\countries\abyssinia.inc"
+include = "scenarios\1936\countries\afghanistan.inc"
+include = "scenarios\1936\countries\bugojno.inc"
+include = "scenarios\1936\countries\bulgaria.inc"
+include = "scenarios\1936\countries\burgundy.inc"
+include = "scenarios\1936\countries\california.inc"
+include = "scenarios\1936\countries\caribbean.inc"
+include = "scenarios\1936\countries\chile.inc"
+include = "scenarios\1936\countries\colombia.inc"
+include = "scenarios\1936\countries\congo.inc"
+include = "scenarios\1936\countries\cuba.inc"
+include = "scenarios\1936\countries\cyprus.inc"
+include = "scenarios\1936\countries\dallash.inc"
+include = "scenarios\1936\countries\dutch.inc"
+include = "scenarios\1936\countries\deseret.inc"
+include = "scenarios\1936\countries\england.inc"
+include = "scenarios\1936\countries\france.inc"
+include = "scenarios\1936\countries\georgia.inc"
+include = "scenarios\1936\countries\germany.inc"
+include = "scenarios\1936\countries\greece.inc"
+include = "scenarios\1936\countries\haiti.inc"
+include = "scenarios\1936\countries\hungary.inc"
+include = "scenarios\1936\countries\iraq.inc"
+include = "scenarios\1936\countries\ireland.inc"
+include = "scenarios\1936\countries\israel.inc"
+include = "scenarios\1936\countries\italy.inc"
+include = "scenarios\1936\countries\indonesia.inc"
+include = "scenarios\1936\countries\japan.inc"
+include = "scenarios\1936\countries\libya.inc"
+include = "scenarios\1936\countries\mexico.inc"
+include = "scenarios\1936\countries\ming.inc"
+include = "scenarios\1936\countries\morocco.inc"
+include = "scenarios\1936\countries\oroslavje.inc"
+include = "scenarios\1936\countries\philippines.inc"
+include = "scenarios\1936\countries\persia.inc"
+include = "scenarios\1936\countries\romania.inc"
+include = "scenarios\1936\countries\russia.inc"
+include = "scenarios\1936\countries\scandinavia.inc"
+include = "scenarios\1936\countries\serbia.inc"
+include = "scenarios\1936\countries\slovenia.inc"
+include = "scenarios\1936\countries\spain.inc"
+include = "scenarios\1936\countries\switzerland.inc"
+include = "scenarios\1936\countries\syria.inc"
+include = "scenarios\1936\countries\texas.inc"
+include = "scenarios\1936\countries\tibet.inc"
+include = "scenarios\1936\countries\turkey.inc"
+include = "scenarios\1936\countries\usa.inc"
+include = "scenarios\1936\countries\venezuela.inc"
+include = "scenarios\1936\countries\vinland.inc"
+include = "scenarios\1936\countries\wales.inc"
+include = "scenarios\1936\countries\xia.inc"
+include = "scenarios\1936\countries\yemen.inc"
+include = "scenarios\1936\countries\zlopek.inc"
+include = "scenarios\1936\countries\zulu.inc"
+include = "scenarios\1936\countries\osterland.inc"
+include = "scenarios\1936\countries\newsverige.inc"

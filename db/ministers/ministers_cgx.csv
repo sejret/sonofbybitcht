@@ -1,0 +1,30 @@
+CGX;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+585001;Head of State;Li Jishen;1933;1964;1964;PA;Weary Stiffneck;High;2333;X
+585002;Head of Government;Li Zongren;1933;1964;1964;PA;Flamboyant Tough Guy;High;620;X
+585003;Foreign Minister;Wang Jingwei;1933;1964;1964;PA;Biased Intellectual;High;M502003;X
+585004;Minister of Armament;Yu Hanmou;1933;1964;1964;PA;Infantry Proponent;Medium;M502004;X
+585005;Minister of Security;Lei Zhong;1933;1964;1964;PA;Man of the People;Medium;M502005;X
+585006;Head of Military Intelligence;Li Jishen;1933;1964;1964;PA;Dismal Enigma;Medium;2333;X
+585007;Chief of Staff;Bai Chongxi;1933;1964;1964;PA;School of Manoeuvre;Medium;M502007;X
+585008;Chief of Army;Chen Jitang;1933;1964;1964;PA;Guns and Butter Doctrine;Medium;M502008;X
+585009;Chief of Navy;Bai Chongxi;1933;1964;1964;PA;Indirect Approach Doctrine;Medium;M502007;X
+585010;Chief of Air Force;Wang Shuming;1933;1964;1964;PA;Air Superiority Doctrine;Medium;M502010;X
+585100;Head of State;Lu Rongting;1886;1925;1929;PA;Resigned Generalissimo;High;9544;X
+585101;Head of Government;Li Guoyun;1903;1925;1956;PA;Naive Optimist;High;9545;X
+585102;Foreign Minister;Lu Rongting;1886;1925;1929;PA;Biased Intellectual;High;9544;X
+585103;Minister of Armament;Chen Bingkun;1904;1925;1928;PA;Resource Industrialist;Medium;9546;X
+585104;Minister of Security;Zhu Qinglan;1893;1942;1942;PA;Man of the People;Medium;9547;X
+585105;Head of Military Intelligence;Zhu Qinglan;1893;1942;1942;PA;Political Specialist;Very High;9547;X
+585106;Chief of Staff;Lu Rongting;1886;1925;1929;PA;School of Mass Combat;Medium;9544;X
+585107;Chief of Army;Tan Haoming;1893;1925;1926;PA;Decisive Battle Doctrine;Medium;9549;X
+585108;Chief of Navy;Lin Baoyi;1894;1928;1931;PA;Decisive Naval Battle Doctrine;High;9550;X
+585109;Chief of Air Force;Lu Rongting;1886;1925;1929;PA;Army Aviation Doctrine;Medium;9544;X
+585110;Head of State;Chen Bingkun;1904;1925;1928;PA;Autocratic Charmer;High;9546;X
+585111;Head of State;Tan Haoming;1893;1925;1926;PA;Resigned Generalissimo;High;9549;X
+585112;Head of Government;Zhu Qinglan;1893;1942;1942;PA;Old General;High;9548;X
+585113;Foreign Minister;Zhu Qinglan;1893;1942;1942;PA;General Staffer;High;9548;X
+585114;Head of State;Cen Chenxuan;1918;1933;1933;PA;Cen Chenxuan;High;9552;X
+585115;Head of Government;Lu Rongting;1886;1925;1929;PA;Old General;High;9544;X
+585116;Head of State;Chen Jiongming;1909;1922;1933;PA;Weary Stiffneck;High;9515;X
+585117;Head of Government;Ma Junwu;1902;1925;1941;PA;Happy Amateur;High;9553;X

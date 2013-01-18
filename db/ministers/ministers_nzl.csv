@@ -1,0 +1,95 @@
+NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+215001;Head of State;Nikolaus Thorsen;1933;1964;1999;SD;Stern Imperialist;High;M55001;X
+215002;Head of Government;Vivian Salomon;1933;1964;1999;SD;Silent Workhorse;High;M55002;X
+215003;Foreign Minister;Vivian Salomon;1933;1964;1999;SD;Great Compromiser;Very High;M55002;X
+215004;Minister of Armament;Christian Carstensen;1933;1964;1999;SD;Resource Industrialist;High;M55004;X
+215005;Minister of Security;Sebastian Skovgaard;1933;1964;1999;SD;Compassionate Gentleman;High;M55005;X
+215006;Head of Military Intelligence;Mikkel Davidsen;1933;1964;1999;SD;Dismal Enigma;Medium;M55006;X
+215007;Chief of Staff;Bjarne Vinter;1933;1964;1999;ML;School of Mass Combat;High;M55007;X
+215008;Chief of Army;Bjarne Vinter;1933;1964;1999;ML;Elastic Defence Doctrine;High;M55007;X
+215009;Chief of Navy;Arvid Kristian;1933;1964;1999;ML;Base Control Doctrine;High;M55009;X
+215010;Chief of Air Force;Josef Albin Kristoffersen;1933;1964;1999;ML;Air Superiority Doctrine;High;M55010;X
+215011;Head of State;Nikolaus Thorsen;1933;1964;1999;SC;Stern Imperialist;High;M55001;X
+215012;Head of State;Sven Petersen;1941;1964;1999;SD;Autocratic Charmer;High;M55033;X
+215013;Head of State;Sven Petersen;1941;1964;1999;ML;Autocratic Charmer;High;M55033;X
+215014;Head of State;Mikkel Torvald;1946;1964;1999;SD;Resigned Generalissimo;High;M55035;X
+215015;Head of State;Mikkel Torvald;1946;1964;1999;ML;Resigned Generalissimo;High;M55035;X
+215016;Head of Government;Jonathan Jokumsen;1938;1964;1999;SC;Corporate Suit;High;M55037;X
+215017;Head of Government;Kjeld Guldbrandsen;1940;1964;1999;SD;Political Protege;High;M55038;X
+215018;Head of Government;Rune Hemming;1943;1964;1999;SC;Smiling Oilman;High;M55039;X
+215019;Foreign Minister;Søren Andersen;1938;1964;1999;SD;Ideological Crusader;Low;M55040;X
+215020;Foreign Minister;Kjeld Guldbrandsen;1940;1964;1999;SD;Biased Intellectual;Very High;M55038;X
+215021;Foreign Minister;Christian Carstensen;1945;1964;1999;SD;Apologetic Clerk;High;M55004;X
+215022;Foreign Minister;Alexander Klassen;1938;1964;1999;ML;Great Compromiser;Very High;M55043;X
+215023;Foreign Minister;Jonathan Jokumsen;1938;1964;1999;SC;Apologetic Clerk;Very High;M55037;X
+215024;Foreign Minister;Bjarne Vinter;1940;1964;1999;SC;General Staffer;High;M55007;X
+215025;Foreign Minister;Thore Olesen;1942;1964;1999;SC;The Cloak N Dagger Schemer;High;M55046;X
+215026;Foreign Minister;Rune Hemming;1943;1964;1999;SC;Great Compromiser;Very High;M55039;X
+215027;Minister of Armament;Tobias Nielsen;1933;1964;1999;SD;Resource Industrialist;High;M55048;X
+215028;Minister of Armament;Jon Valentin;1939;1964;1999;SD;laissez-faire capitalist;High;M55049;X
+215029;Minister of Armament;Thorvald Amundsen;1939;1964;1999;SD;Air to Sea Proponent;High;M55050;X
+215030;Minister of Armament;Jørg Christiansen;1944;1964;1999;SD;Military Entrepreneur;High;M55051;X
+215031;Minister of Armament;Herman Kjeldsen;1942;1964;1999;ML;Submarine Proponent;High;M55052;X
+215032;Minister of Armament;Josef Albin Kristoffersen;1933;1964;1999;SC;Air Superiority Proponent;High;M55010;X
+215033;Minister of Armament;Rune Hemming;1938;1964;1999;SC;laissez-faire capitalist;High;M55039;X
+215034;Minister of Armament;A. de Terrotte Neville;1939;1964;1999;SC;Strategic Air Proponent;High;M55055;X
+215035;Minister of Armament;Hemming Lange;1939;1964;1999;SC;Air to Ground Proponent;High;M55056;X
+215036;Minister of Armament;Tore Hummel;1942;1964;1999;SC;Battle Fleet Proponent;High;M55057;X
+215037;Minister of Armament;Kai Frank;1943;1964;1999;SC;Theoretical Scientist;High;M55058;X
+215038;Minister of Armament;Bjoern Poul;1944;1964;1999;SC;Infantry Proponent;High;M55059;X
+215039;Minister of Armament;Robert Ingolf;1945;1964;1999;SC;Tank Proponent;High;M55060;X
+215040;Minister of Security;Kaj Doctor;1938;1964;1999;SD;Silent Lawyer;High;M55061;X
+215041;Minister of Security;Klemens Johansen;1940;1964;1999;SD;Man of the People;High;M55062;X
+215042;Minister of Security;Alexander Klassen;1933;1964;1999;ML;Back Stabber;Very High;M55043;X
+215043;Minister of Security;Arvid Kristian;1943;1964;1999;ML;Efficient Sociopath;High;M55009;X
+215044;Minister of Security;Thore Olesen;1938;1964;1999;SC;Silent Lawyer;High;M55046;X
+215045;Minister of Security;Jonathan Jokumsen;1939;1964;1999;SC;Crime Fighter;High;M55037;X
+215046;Minister of Security;Rune Hemming;1942;1964;1999;SC;Prince of Terror;Very High;M55039;X
+215047;Minister of Security;Mikkel Davidsen;1945;1964;1999;SC;Compassionate Gentleman;Medium;M55006;X
+215048;Head of Military Intelligence;Hugo Philpott;1938;1964;1999;SD;Logistics Specialist;High;M55069;X
+215049;Head of Military Intelligence;Tom Stanley;1943;1964;1999;SD;Political Specialist;Low;M55021;X
+215050;Head of Military Intelligence;Jonathan Jokumsen;1937;1964;1999;SC;Dismal Enigma;High;M55037;X
+215051;Head of Military Intelligence;Kai Frank;1939;1964;1999;SC;Industrial Specialist;High;M55058;X
+215052;Head of Military Intelligence;Arvid Kristian;1942;1964;1999;SC;Naval Intelligence Specialist;High;M55009;X
+215053;Head of Military Intelligence;Robert Ingolf;1942;1964;1999;SC;Technical Specialist;High;M55060;X
+215054;Chief of Staff;Robert Ingolf;1937;1964;1999;ML;School of Manoeuvre;High;M55060;X
+215055;Chief of Staff;Rudolf Rasmussen;1940;1964;1999;ML;School of Mass Combat;High;M55076;X
+215056;Chief of Staff;Bjoern Poul;1941;1964;1999;ML;School of Defence;High;M55059;X
+215057;Chief of Staff;Nikolaj Bo;1942;1964;1999;ML;School of Fire Support;High;M55078;X
+215058;Chief of Staff;Martin Erik;1946;1964;1999;ML;School of Psychology;High;M55079;X
+215059;Chief of Army;Hagen Norup;1937;1964;1999;ML;Elastic Defence Doctrine;High;M55080;X
+215060;Chief of Army;Robert Ingolf;1937;1964;1999;ML;Armoured Spearhead Doctrine;High;M55060;X
+215061;Chief of Army;Rasmus Yngve;1940;1964;1999;ML;Static Defence Doctrine;High;M55082;X
+215062;Chief of Army;Bjoern Poul;1941;1964;1999;ML;Decisive Battle Doctrine;High;M55059;X
+215063;Chief of Army;Martin Erik;1946;1964;1999;ML;Guns and Butter Doctrine;High;M55079;X
+215064;Chief of Navy;H.E. Horan;1938;1964;1999;ML;Open Seas Doctrine;High;M55085;X
+215065;Chief of Navy;Herman Kjeldsen;1940;1964;1999;ML;Indirect Approach Doctrine;High;M55052;X
+215066;Chief of Navy;Tore Hummel;1942;1964;1999;ML;Decisive Naval Battle Doctrine;High;M55057;X
+215067;Chief of Navy;Max Oliversson;1945;1964;1999;ML;Power Projection Doctrine;High;M55056;X
+215068;Chief of Navy;Emanuel Knutson;1945;1964;1999;ML;Base Control Doctrine;High;M55089;X
+215069;Chief of Air Force;Hemming Lange;1939;1964;1999;ML;Army Aviation Doctrine;High;M55056;X
+215070;Chief of Air Force;Kennet Nilsson;1941;1964;1999;ML;Vertical Envelopment Doctrine;High;M55091;X
+215071;Chief of Air Force;Thorvald Amundsen;1943;1964;1999;ML;Naval Aviation Doctrine;High;M55050;X
+215072;Chief of Air Force;Gösta Waltersson;1944;1964;1999;ML;Air Superiority Doctrine;High;M55093;X
+215073;Chief of Air Force;A. de Terrotte Neville;1945;1964;1999;ML;Carpet Bombing Doctrine;High;M55055;X
+215074;Head of State;Isak Ljung;1933;1964;1999;PA;Benevolent Gentleman;High;M55011;X
+215075;Head of Government;Andreas Bergström;1933;1964;1999;PA;Happy Amateur;High;M55012;X
+215076;Foreign Minister;Andreas Bergström;1933;1964;1999;PA;Ideological Crusader;Very High;M55012;X
+215077;Minister of Armament;Göstav Ragnvaldsson;1933;1964;1999;PA;Air to Sea Proponent;High;M55014;X
+215078;Minister of Security;Alf Robertsson;1933;1964;1999;PA;Prince of Terror;High;M55015;X
+215079;Head of Military Intelligence;Klemens Stendahl;1933;1964;1999;PA;Naval Intelligence Specialist;High;M55016;X
+215080;Chief of Staff;Arne Hansson;1933;1964;1999;PA;School of Manoeuvre;High;M55017;X
+215081;Chief of Army;Arne Hansson;1933;1964;1999;PA;Elastic Defence Doctrine;High;M55017;X
+215082;Chief of Navy;Fritjof Albinson;1933;1964;1999;PA;Base Control Doctrine;High;M55019;X
+215083;Chief of Air Force;Olga Holmström;1933;1964;1999;PA;Vertical Envelopment Doctrine;High;M55020;X
+215084;Head of State;Enok Hagebak;1933;1964;1999;LE;Powerhungry Demagogue;High;M55021;X
+215085;Head of Government;Oskar Eindride;1933;1964;1999;LE;Happy Amateur;High;M55022;X
+215086;Foreign Minister;Oskar Eindride;1933;1964;1999;LE;Biased Intellectual;Very High;M55022;X
+215087;Minister of Armament;Kristian Albertsen;1933;1964;1999;LWR;Theoretical Scientist;High;M55024;X
+215088;Minister of Security;Axel Knutson;1933;1964;1999;ST;Efficient Sociopath;High;M55025;X
+215089;Head of Military Intelligence;Kevin Vollan;1933;1964;1999;LWR;Technical Specialist;High;M55026;X
+215090;Chief of Staff;Christen Baardsson;1933;1964;1999;ST;School of Psychology;High;M55027;X
+215091;Chief of Army;Axel Knutson;1933;1964;1999;ST;Guns and Butter Doctrine;High;M55025;X
+215092;Chief of Navy;Dag Hermansen;1933;1964;1999;LE;Decisive Naval Battle Doctrine;High;M55029;X
+215093;Chief of Air Force;Esben Leonardsen;1933;1964;1999;ST;Air Superiority Doctrine;High;M55030;X

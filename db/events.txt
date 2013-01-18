@@ -1,0 +1,12 @@
+# Darkest Hour events
+
+event = "db\events\death_events.txt"
+event = "db\events\generic_decisions.txt"
+event = "db\events\secret_weapon_events.txt"
+event = "db\events\Mobilization.txt"
+event = "db\events\Mobilization_events.txt"
+event = "db\events\Election_day.txt"
+
+# Mods placeholder
+
+event = "db\events\Mods.txt"
